@@ -1,0 +1,56 @@
+/* navbar */
+.navbar-brand img{
+    width: 120px;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+
+.navbar-nav .form-control{
+    width: 400px;
+    margin-right: 20px;
+}
+
+.navbar-nav .btn {
+    width: 140px;
+}
+/* navbar */
+
+
+/* banner carousel */
+#banner .carousel img {
+    width: 100%;
+}
+#banner .brand img {
+    width: 100%;
+}
+/* banner */
+
+
+/* unggulan */
+#unggulan .card{
+width: 100%;
+}
+
+#unggulan .card-text {
+    text-decoration: none;
+    color: black;
+}
+#unggulan .card-text:hover{
+    text-decoration: underline yellow;
+}
+/* unggulan */
+
+/* lainnya */
+#lainnya .card{
+    width: 100%;
+}
+    
+#lainnya .card-text {
+    text-decoration: none;
+    color: black;
+}
+#lainnya .card-text:hover{
+    text-decoration: underline yellow;
+}
+/* lainnya */
