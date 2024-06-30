@@ -1,0 +1,68 @@
+@media (max-width: 992px) {
+
+    /* navbar */
+.navbar-brand img{
+    width: 120px;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+
+.navbar-nav .form-control{
+    width: 100%;
+    margin-top: 10px;
+}
+
+.navbar-nav .btn {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+/* navbar */
+
+
+/* banner carousel */
+#banner .carousel img {
+    width: 100%;
+}
+#banner .brand img {
+    width: 100%;
+}
+/* banner */
+
+
+/* unggulan */
+#unggulan .card{
+width: 100%;
+}
+
+#unggulan .card-text {
+    text-decoration: none;
+    color: black;
+}
+#unggulan .card-text:hover{
+    text-decoration: underline yellow;
+}
+/* unggulan */
+
+/* lainnya */
+#lainnya .card{
+    width: 100%;
+}
+    
+#lainnya .card-text {
+    text-decoration: none;
+    color: black;
+}
+#lainnya .card-text:hover{
+    text-decoration: underline yellow;
+}
+/* lainnya */
+
+/* daftar */
+#daftar form label {
+    font-weight: 600;
+    margin-top: 5;
+    margin-bottom: 5;
+}
+}

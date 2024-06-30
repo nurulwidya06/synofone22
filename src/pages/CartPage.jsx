@@ -1,11 +1,12 @@
 import { Container, Row, Col, Card, Button, Form} from "react-bootstrap";
-import NavbarComponent from "../components/NavbarComponent";
+import NavComponent from "../components/NavComponent";
 import FooterComponent from "../components/FooterComponent";
+
 
 const CartPage = () => {
     return (
         <>
-        <NavbarComponent/>
+        <NavComponent/>
             <Container className="mt-5"> 
             <Row>
                 <Col lg={6}>
