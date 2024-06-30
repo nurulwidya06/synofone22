@@ -54,3 +54,10 @@ width: 100%;
     text-decoration: underline yellow;
 }
 /* lainnya */
+
+/* daftar */
+#daftar form label {
+    font-weight: 600;
+    margin-top: 5;
+    margin-bottom: 5;
+}
