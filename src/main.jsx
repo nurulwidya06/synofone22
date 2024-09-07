@@ -10,7 +10,7 @@ import './mobile.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 //import react router dom
-import { BrowserRouter } from 'react-router-dom';
+import { BrowserRouter, RouterProvider } from 'react-router-dom';
 
 // import swiper/css
 import 'swiper/css';
@@ -22,4 +22,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <BrowserRouter>
     <App />
   </BrowserRouter>,
+
+
 )

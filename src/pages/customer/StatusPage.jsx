@@ -1,5 +1,5 @@
 import { Container, Row, Col, Form, Button } from "react-bootstrap"
-import NavComponent from "../components/NavComponent"
+import NavComponent from "../../components/customer/NavComponent"
 
 const StatusPage = () => {
     return (

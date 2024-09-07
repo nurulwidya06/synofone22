@@ -1,5 +1,5 @@
 import { Container, Row, Col } from "react-bootstrap"
-import NavComponent from "../components/NavComponent"
+import NavComponent from "../../components/customer/NavComponent"
 import { Link } from "react-router-dom"
 
 const FinishPage = () => {

@@ -1,6 +1,6 @@
 import { Container, Row, Col, Card, Button, Form} from "react-bootstrap";
-import NavComponent from "../components/NavComponent";
-import FooterComponent from "../components/FooterComponent";
+import NavComponent from "../../components/customer/NavComponent";
+import FooterComponent from "../../components/customer/FooterComponent";
 
 
 const CartPage = () => {

@@ -1,9 +1,9 @@
 import { Container, Row, Col, Card, Form } from "react-bootstrap";
-import NavbarComponent from "../components/NavbarComponent";
-import FooterComponent from "../components/FooterComponent";
+import NavbarComponent from "../../components/customer/NavbarComponent";
+import FooterComponent from "../../components/customer/FooterComponent";
 import { useState } from "react";
 import { Link } from "react-router-dom";
-import UnggulanComponent from "../components/UnggulanComponent";
+import UnggulanComponent from "../../components/customer/UnggulanComponent";
 
 const DetailPage = () => {
   const [jumlah, setJumlah] = useState(1);

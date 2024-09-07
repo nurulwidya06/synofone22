@@ -1,6 +1,6 @@
 import { Container, Navbar, Nav, Form, Dropdown } from "react-bootstrap";
 import { Link } from "react-router-dom";
-import logo from "../assets/logo.png"
+import logo from "../../assets/logo.png"
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faUser, faCartShopping} from "@fortawesome/free-solid-svg-icons";
